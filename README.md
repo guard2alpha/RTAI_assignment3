@@ -19,7 +19,7 @@
 
 본 프로젝트는 **Linux (Ubuntu 22.04 / Google Colab)** 환경에서 빌드 및 테스트됐다. (Windows 환경에서는 빌드 오류가 발생할 수 있으므로 Linux 환경 사용을 권장)
 
-### 1. 시스템 의존성 설치
+### 1. 설치
 ```bash
 sudo apt-get update
 sudo apt-get install -y cmake wget build-essential git python3-dev
